@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrancisZoeChituwi
+- 👋 Hi, I’m Nzeru Creations
 - 👀 I’m interested in HTML, JS, CSS and Python
 - 🌱 I’m currently learning JS and Python
 - 💞️ I’m looking to collaborate on HTML, JS, CSS and Python Projects
