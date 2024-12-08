@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS and Python
 - 💞️ I’m looking to collaborate on HTML, JS, CSS, Java Script and Python Projects
 - 💞️ I am currently learning Python for Application Development
-💞️ I am currently learning Flutter for applications for mobile, web, and desktop
+- 💞️ I am currently learning Flutter for applications for mobile, web, and desktop
 - 📫 How to reach me WhatsApp: +265999157664
 
 <!---
